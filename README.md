@@ -2,6 +2,6 @@
 
 ##А.Кондиционер
 
-(/Yandex/images/1.png)
+![Alt-описание изображения](/Yandex/images/1.jpg)
 
 ###
